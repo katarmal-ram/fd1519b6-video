@@ -1,34 +1,33 @@
 {
   "hero": {
     "cta": {
-      "primary": "Explore Components",
-      "secondary": "Get Quote",
+      "primary": "Explore Precision Components",
+      "secondary": "Get a Custom Quote",
       "primaryAction": "/products",
       "secondaryAction": "/contact"
     },
     "type": "video",
-    "title": "Precision Brass Components for Advanced Industries",
+    "title": "Precision Manufacturing Excellence",
     "enabled": true,
-    "subtitle": "30 Years of Manufacturing Excellence in Automotive and Aerospace Sectors",
-    "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=2000&q=80",
-    "backgroundVideo": "https://example.com/shiv-brass-manufacturing.mp4"
+    "subtitle": "Delivering High-Performance Components for Automotive and Aerospace Industries",
+    "backgroundVideo": "https://example.com/manufacturing-precision-video.mp4"
   },
   "meta": {
-    "title": "Shiv Brass - Precision Component Manufacturing - Industrial Solutions",
-    "description": "Leading precision brass component manufacturer with 30 years experience. Custom manufacturing for automotive and aerospace industries. High-quality, reliable solutions."
+    "title": "Shiv Brass - Precision Component Manufacturing",
+    "description": "30 years of expertise in precision brass components for automotive and aerospace industries. Custom manufacturing solutions."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Transform Your Manufacturing with Precision Components",
+      "title": "Ready to Transform Your Manufacturing Needs?",
       "enabled": true,
-      "subtitle": "Partner with industry experts delivering high-quality brass components for critical applications worldwide",
+      "subtitle": "Partner with industry leaders in precision component manufacturing",
       "primaryCTA": {
-        "text": "View Services",
-        "action": "/services"
+        "text": "View Our Products",
+        "action": "/products"
       },
       "secondaryCTA": {
-        "text": "Contact Us",
+        "text": "Contact Our Experts",
         "action": "/contact"
       }
     },
@@ -37,39 +36,34 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We accommodate both small and large orders, with flexible manufacturing capabilities ranging from prototype to mass production runs.",
-          "question": "What is your minimum order quantity?"
+          "answer": "We accommodate both small custom orders and large-scale mass production requirements, with flexible minimum order quantities tailored to your project needs.",
+          "question": "What are your minimum order quantities?"
         },
         {
-          "id": "quality-certifications",
-          "answer": "We maintain ISO 9001:2015 certification and have specialized aerospace and automotive industry quality standards compliance.",
-          "question": "What quality certifications do you have?"
-        },
-        {
-          "id": "lead-times",
-          "answer": "Standard lead times range from 2-6 weeks depending on component complexity and order volume. Rush orders available for urgent requirements.",
+          "id": "lead-time",
+          "answer": "Standard lead times range from 2-6 weeks depending on complexity and volume. Custom projects are evaluated individually to provide precise timelines.",
           "question": "What are your typical production lead times?"
         },
         {
-          "id": "custom-manufacturing",
-          "answer": "Yes, we specialize in custom manufacturing with advanced CNC machining and precision engineering capabilities for unique component requirements.",
-          "question": "Can you produce custom precision components?"
+          "id": "quality",
+          "answer": "We maintain rigorous quality standards with ISO certifications and comprehensive quality control processes for automotive and aerospace components.",
+          "question": "What quality certifications do you maintain?"
         },
         {
-          "id": "material-options",
-          "answer": "We primarily work with brass, but also offer capabilities in copper alloys, aluminum, and select stainless steel components.",
-          "question": "What materials can you work with?"
+          "id": "materials",
+          "answer": "We specialize in brass manufacturing with expertise in precision machining for complex automotive and aerospace component requirements.",
+          "question": "What materials do you specialize in?"
         }
       ],
       "title": "Frequently Asked Questions",
       "enabled": true,
-      "subtitle": "Get answers to common questions about our precision manufacturing services"
+      "subtitle": "Get instant answers about our precision manufacturing services"
     },
     "stats": {
       "type": "stats",
       "items": [
         {
-          "label": "Years in Business",
+          "label": "Years Experience",
           "number": "30+"
         },
         {
@@ -77,144 +71,106 @@
           "number": "500+"
         },
         {
-          "label": "Global Reach",
-          "number": "25+"
+          "label": "Industries Served",
+          "number": "10+"
         },
         {
-          "label": "Customer Satisfaction",
-          "number": "98%"
+          "label": "Satisfied Clients",
+          "number": "5000+"
         }
       ],
-      "title": "Our Performance and Achievements",
+      "title": "Our Achievements",
       "enabled": true,
-      "subtitle": "Proven track record of excellence in precision component manufacturing"
+      "subtitle": "Delivering precision and excellence for three decades"
     },
     "expertise": {
       "type": "expertise",
-      "title": "Industry Expertise and Solutions",
+      "title": "Industries We Serve",
       "enabled": true,
       "sectors": [
         {
-          "id": "automotive-sector",
-          "name": "Automotive Manufacturing",
-          "image": "https://images.unsplash.com/photo-1519861531473-9200262188c6?auto=format&fit=crop&w=600&q=80",
-          "description": "Specialized precision brass components designed for automotive electrical and mechanical systems with highest quality standards.",
+          "id": "automotive",
+          "name": "Automotive",
+          "image": "https://example.com/automotive-manufacturing.jpg",
+          "description": "Specialized precision brass components for automotive systems, including electrical and pneumatic applications",
           "applications": [
-            "Spark Plug Terminals",
-            "Electrical Connectors",
-            "Engine Components",
-            "Sensor Housings",
-            "Transmission Parts"
-          ]
-        },
-        {
-          "id": "aerospace-sector",
-          "name": "Aerospace Engineering",
-          "image": "https://images.unsplash.com/photo-1612956946618-c17d4eff5c70?auto=format&fit=crop&w=600&q=80",
-          "description": "High-precision brass components meeting stringent aerospace industry requirements for reliability and performance.",
-          "applications": [
-            "Hydraulic Fittings",
+            "Spark Plug Components",
+            "Electrical Terminals",
             "Pneumatic Valves",
-            "Sensor Mounts",
-            "Electrical Interfaces",
+            "Cylinder Components"
+          ]
+        },
+        {
+          "id": "aerospace",
+          "name": "Aerospace",
+          "image": "https://example.com/aerospace-manufacturing.jpg",
+          "description": "High-precision brass components meeting stringent aerospace manufacturing standards",
+          "applications": [
+            "Hydraulic Connectors",
+            "Electrical System Components",
+            "Precision Instrumentation Parts",
             "Structural Connectors"
-          ]
-        },
-        {
-          "id": "industrial-machinery",
-          "name": "Industrial Machinery",
-          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=600&q=80",
-          "description": "Robust brass components engineered for demanding industrial machinery applications with exceptional durability.",
-          "applications": [
-            "Pneumatic Cylinders",
-            "Valve Components",
-            "Hydraulic Fittings",
-            "Precision Bushings",
-            "Mechanical Interfaces"
-          ]
-        },
-        {
-          "id": "electrical-systems",
-          "name": "Electrical Systems",
-          "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=600&q=80",
-          "description": "Specialized electrical brass components providing superior conductivity and reliability for complex electrical system requirements.",
-          "applications": [
-            "Terminal Blocks",
-            "Electrical Connectors",
-            "Signal Interfaces",
-            "Power Distribution",
-            "Control Panel Components"
           ]
         }
       ],
-      "subtitle": "Comprehensive manufacturing solutions across multiple critical industries",
-      "description": "Shiv Brass delivers precision brass components with advanced manufacturing technologies, serving diverse industrial sectors with unmatched expertise and quality."
+      "subtitle": "Precision Engineering Across Critical Industries",
+      "description": "With 30 years of manufacturing expertise, we deliver high-performance precision components for demanding industrial applications."
     },
     "whyChooseUs": {
       "type": "why-choose-us",
       "items": [
         {
-          "id": "precision-engineering",
-          "icon": "cogs",
-          "title": "Advanced Precision Engineering",
-          "description": "State-of-the-art CNC machining and quality control processes ensuring exceptional component accuracy and consistency."
-        },
-        {
-          "id": "custom-solutions",
-          "icon": "tools",
-          "title": "Custom Manufacturing Capabilities",
-          "description": "Flexible production approach allowing tailored solutions for unique component requirements across various industries."
-        },
-        {
-          "id": "quality-commitment",
-          "icon": "shield",
+          "id": "quality",
+          "icon": "shield-check",
           "title": "Uncompromising Quality Standards",
-          "description": "Rigorous quality management systems and certifications guaranteeing highest performance and reliability of manufactured components."
+          "description": "Our precision manufacturing process ensures consistently high-quality components that meet the most rigorous industry specifications."
+        },
+        {
+          "id": "experience",
+          "icon": "calendar",
+          "title": "Three Decades of Manufacturing Excellence",
+          "description": "With 30 years of specialized experience, we bring deep technical knowledge and proven manufacturing capabilities to every project."
+        },
+        {
+          "id": "technology",
+          "icon": "cog",
+          "title": "Advanced Manufacturing Technologies",
+          "description": "We leverage cutting-edge precision machining technologies to deliver complex, high-performance brass components."
         }
       ],
       "title": "Why Choose Shiv Brass",
       "enabled": true,
-      "subtitle": "Your trusted partner in precision component manufacturing"
-    },
-    "aboutusintro": {
-      "type": "about-us-intro",
-      "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=800&q=80",
-      "title": "About Shiv Brass",
-      "enabled": true,
-      "subtitle": "Three Decades of Manufacturing Excellence and Innovation",
-      "highlights": [
-        "30 Years Industry Experience",
-        "Advanced Manufacturing Capabilities",
-        "Global Quality Standards",
-        "Innovative Engineering Solutions"
-      ],
-      "description": "Founded in 1993, Shiv Brass has grown from a small workshop to a leading precision component manufacturer. We combine traditional craftsmanship with modern technology to deliver exceptional brass components worldwide."
+      "subtitle": "Your Trusted Partner in Precision Manufacturing"
     },
     "testimonials": {
       "type": "testimonials",
       "items": [
         {
-          "id": "automotive-client",
+          "id": "client-1",
           "name": "Michael Rodriguez",
-          "image": "https://images.unsplash.com/photo-1507003211169-0fc1a8c810a4?auto=format&fit=crop&w=150&q=80",
+          "image": "https://example.com/professional-headshot-1.jpg",
           "rating": 5,
-          "company": "AutoTech Innovations",
-          "content": "Shiv Brass consistently delivers high-quality precision components that meet our stringent automotive engineering requirements.",
-          "designation": "Chief Engineering Officer"
+          "company": "Global Automotive Systems",
+          "content": "Shiv Brass consistently delivers exceptional precision components that meet our most demanding specifications. Their technical expertise is unmatched.",
+          "designation": "Procurement Director"
         },
         {
-          "id": "aerospace-client",
+          "id": "client-2",
           "name": "Sarah Thompson",
-          "image": "https://images.unsplash.com/photo-1544005313-94ddc0dea4d5?auto=format&fit=crop&w=150&q=80",
+          "image": "https://example.com/professional-headshot-2.jpg",
           "rating": 5,
-          "company": "SkyLine Aerospace",
-          "content": "Exceptional precision and reliability. Shiv Brass has been our trusted manufacturing partner for complex aerospace components.",
-          "designation": "Procurement Director"
+          "company": "Aerospace Innovations Inc.",
+          "content": "We've relied on Shiv Brass for critical aerospace components for over a decade. Their commitment to quality and precision is remarkable.",
+          "designation": "Chief Engineering Officer"
         }
       ],
       "title": "Client Success Stories",
       "enabled": true,
-      "subtitle": "Trusted by leading companies across multiple industries"
+      "subtitle": "Trusted by Industry Leaders"
     }
+  },
+  "_instructions": {
+    "usage": "Dynamic home page showcasing precision manufacturing capabilities",
+    "purpose": "Highlight Shiv Brass's expertise and industry leadership"
   }
 }
